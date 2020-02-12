@@ -1,0 +1,4 @@
+jobs:
+  build-macos:
+    macos:
+      xcod: 11.3.0
